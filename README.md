@@ -56,7 +56,7 @@ AttentionBubble 提供极简月度界面，让你清楚知道本月训练负荷�
 研究指出：
 体脂率越高 → 跑步经济性越差，半马/全马表现越受影响（Barnes & Kilding, 2015）。
 因此 AttentionBubble 用这些变量来调整预测结果，让预估时间既科学又真实。
-5. 沉浸式 Onboarding，引导理解 CS 科学性
+4. 沉浸式 Onboarding，引导理解 CS 科学性
 引导页将展示：
 为什么 CS 比心率更稳定？（Poole et al., 2016）
 为什么 D′ 像一个“冲刺油箱”？（Moritani et al., 1981）
@@ -65,8 +65,8 @@ AttentionBubble 提供极简月度界面，让你清楚知道本月训练负荷�
 
 ---
 🧬 CS 与 D′：科学跑步的双引擎
-指标	意义	文献支持
-C - 决定你能“持续多久”的关键速度	Jones & Vanhatalo (2017)
+
+CS - 决定你能“持续多久”的关键速度	Jones & Vanhatalo (2017)
 D′ - 决定你能“冲多快”的能量储备	Moritani et al. (1981)
 两者结合，可以几乎完整描述跑者的耐力能力（Burnley & Jones, 2018）。
 🏃‍♂️ 如何用 CS 训练？
