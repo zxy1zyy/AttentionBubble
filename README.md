@@ -1,4 +1,4 @@
-# AttentionBubble
+# AttentionBubble for Apple Watch
 
 AttentionBubble is a fast, lightweight, and iOS-native app designed for beginner runners who want a simple way to track distance, calculate critical speed (CS), and estimate realistic half-marathon performance.
 This open-source version focuses on clean design, fundamental running analytics, and a distraction-free interface — without any AI or reinforcement-learning logic from the private production app.
